@@ -1,3 +1,15 @@
+Mob Blocks Minecraft Mod by justAm0ddd3r
+========================================
+This mod adds mob blocks such as creeper or skeleton blocks.
+
+Minecraft Version: 1.16.1
+Compatible Forge Version(s): 32.0.61 and above
+Website: https://www.curseforge.com/minecraft/mc-mods/mob-blocks
+Documentation: https://lookonthebrightsi.de/mc-mods/mob-blocks/documentation
+
+===============================================
+Everything below is the default README by minecraft forge:
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
