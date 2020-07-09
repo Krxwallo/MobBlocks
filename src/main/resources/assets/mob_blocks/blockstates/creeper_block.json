@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mob_blocks:block/creeper_block" }
+  }
+}
