@@ -1,3 +1,7 @@
+All credits of this mod go to justAm0dd3r, minecraft and forge.
+
+==================================================================================
+
 Minecraft Forge: Credits/Thank You
 
 Forge is a set of tools and modifications to the Minecraft base game code to assist 
