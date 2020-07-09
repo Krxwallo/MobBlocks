@@ -11,6 +11,7 @@ issueTrackerURL="http://my.issue.tracker/" #optional
     description='''
     A mod that adds blocks for different vanilla mobs.
     '''
+
 [[dependencies.mob_blocks]]
     modId="forge"
     mandatory=true #mandatory
